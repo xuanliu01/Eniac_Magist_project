@@ -1,4 +1,4 @@
-# Eniac_magist_project
+# Eniac_Magist_project
 
 ## Summary 
    Exploring Eniac's market expansion: challenges, strategy and data driven insights. 
